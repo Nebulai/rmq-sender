@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-
+	"os"
 	"github.com/streadway/amqp"
 )
 
